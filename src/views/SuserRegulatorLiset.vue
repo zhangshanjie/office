@@ -383,6 +383,23 @@ export default {
           width: 145,
           fixed: "left",
         },
+         {
+          title: "实名信息",
+          key: "realName",
+          width: 100,
+          fixed: "left",
+        },
+         {
+          title: "身份证号码",
+          key: "cardNo",
+          width: 140,
+          fixed: "left",
+        },
+         {
+          title: "微信id",
+          key: "weixinId",
+          width: 145,
+        },
         {
           title: "头像",
           key: "avatar",
