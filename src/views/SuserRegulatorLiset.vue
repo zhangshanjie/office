@@ -378,7 +378,7 @@ export default {
           fixed: "left",
         },
         {
-          title: "用户名",
+          title: "用户名称",
           key: "username",
           width: 145,
           fixed: "left",
